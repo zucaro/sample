@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Resumeapp::Application.config.secret_key_base = '2e29115ea1b8108ba754ba329a3ebdc90f955d67f2a3123a251468c39110de5e9128d504f6951a11cbc0387bc52972bbdbf13e090059f055a174823196367418'
+Resumeapp::Application.config.secret_key_base = '30d5fbf8ada2130ff5eec6f61ce800de9fac9d51954236543f8dcf2b5ee287392ced541c627f839af7d58a38e9ee6137212b28f09bac94507aa8e61842bd5282'
